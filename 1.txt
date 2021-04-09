@@ -1,2 +1,2 @@
-hi there, this is version 1 release
+hi, this is version 1 release
 
